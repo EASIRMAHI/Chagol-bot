@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "sabbir11222w@gmail.com",
+		"password": "01200120mahi",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -22,7 +22,7 @@
 		"whiteListIds": [""],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": "GoatBot",
+	"nickNameBot": "bankai",
 	"prefix": "-",
 	"database": {
 		"type": "sqlite",
